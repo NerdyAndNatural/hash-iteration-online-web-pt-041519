@@ -12,13 +12,12 @@ end
 
 def age_appropriate_birthday (kids_name, age)
   
-  while i > 12
   
-  if (birthday_kids[age]) > 12 
+  if [age] > 12 
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
   else 
     puts "You are too old for this."
-  end
+
   end
 end
 
