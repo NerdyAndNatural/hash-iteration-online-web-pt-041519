@@ -22,4 +22,3 @@ def age_appropriate_birthday (birthday_kids)
   if |age| > 12
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
   else puts ""
->>>>>>> ab6da60105979e8c1da921291496e8d8c4418e7e
