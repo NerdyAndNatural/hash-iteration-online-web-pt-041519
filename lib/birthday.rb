@@ -18,7 +18,6 @@ i = 0
   else 
     puts "You are too old for this."
     
-    i = i + 1
   end
 end
 
